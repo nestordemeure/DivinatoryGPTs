@@ -7,12 +7,15 @@ It will then write down a short description of the client (only aspects you coul
 As you give the reading, it will both simulate the client and give you hint on things that you could do to improve your reading.
 At the end of the session, it will give you feedback on what you did and what you could do to improve your reading.
 
+The ability to ask the coach for direct feedback and editing previous message to try alternative approaches is a nice perk of this user interface.
+
 You will find the model [here](https://chat.openai.com/g/g-elaJW29EX-tarot-coach) and a discussion with it [there](https://chat.openai.com/share/20ab4d8e-21ae-466e-9605-ece40eea357b).
 
 ## Content
 
 * Main prompt: `prompt.md`
 * Knowledge: `client_generator.py` and `draw_tarot.py`
+* Capabilities: `Code Interpreter`
 * Conversation Starters: `Let's start a session!`
 
 ## Theory

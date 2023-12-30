@@ -1,6 +1,6 @@
 import random
 
-def generate_persona():
+def generate_persona(**kwargs):
     # Age
     age = random.randint(18, 80)
 
@@ -59,7 +59,8 @@ def generate_persona():
         'Job': job,
         'Sexual Orientation': sexual_orientation,
         'Zodiac Sign': zodiac_sign,
-        'Current Life Concern': life_concern
+        'Current Life Concern': life_concern,
+        'Other Elements': kwargs
     }
 
 # Generate and print a random persona

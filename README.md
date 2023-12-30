@@ -11,4 +11,5 @@ The point of this repository is to test their usefulness and limits, exploring w
 
 ## Models
 
-* *Tarot Coach*: this model helps you become a better tarot reader
+* [Sitter](https://github.com/nestordemeure/DivinatoryGPTs/tree/main/Sitter): this model simulates a client coming to you and asking for a reading
+* [Tarot Coach](https://github.com/nestordemeure/DivinatoryGPTs/tree/main/Tarot%20Coach): this model helps you become a better tarot reader
